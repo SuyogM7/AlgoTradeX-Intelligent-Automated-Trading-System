@@ -1,1 +1,0 @@
-# AlgoTradeX-Intelligent-Automated-Trading-System

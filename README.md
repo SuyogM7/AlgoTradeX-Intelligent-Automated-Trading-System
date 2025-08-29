@@ -1,5 +1,5 @@
 
-# Trading System
+# AlgoTradeX-Intelligent-Automated-Trading-System
 
 This is an **automated trading system** designed for live trading and strategy testing using the **[Alpaca](https://alpaca.markets/) API**. It retrieves real-time market data, calculates indicators, generates trade signals and executes orders based on predefined strategies.
 
@@ -156,5 +156,4 @@ Use `Ctrl + C` to stop execution.
 
 All trade logs are saved in the `data/` directory. 🚀
 =======
-# AlgoTradeX-Intelligent-Automated-Trading-System
->>>>>>> 54a04eaa4890053b1fdf1932dacd57b72ae6f5c5
+
